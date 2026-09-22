@@ -1,1 +1,15 @@
-# assignment-task-no-1
+#include <stdio.h>
+
+int main()
+{
+    printf("Units Offered This Semester:\n");
+    printf("1. Structured Programming and algorithms\n");
+    printf("2. Communication skills\n");
+    printf("3. Health and wellness management\n");
+    printf("4. Computational Logic\n");
+    printf("5. Basic Mathematics\n");
+    printf("6. Introduction to Physics\n");
+    printf("7. Digital Literacy\n");
+
+    return 0;
+}
